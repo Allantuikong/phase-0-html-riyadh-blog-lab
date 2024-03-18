@@ -54,3 +54,7 @@ Method to validate their guesses into building a model.
 
 It's possibly the most powerful learning technique possible. Toddlers and
 puppies are amazing at it!
+
+## Deployed Version
+You can view the deployed version [here](https://allantuikong.github.io/phase-0-html-riyadh-blog-lab/).
+
